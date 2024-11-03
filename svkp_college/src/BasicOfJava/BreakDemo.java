@@ -9,6 +9,7 @@ public class BreakDemo{
     	{
     		break;
     	}
+    	System.out.println(i);
       }
 	}
 
